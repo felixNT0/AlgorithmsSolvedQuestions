@@ -1,2 +1,2 @@
-# AlgorithmsSolvedQuestions
-My Algorithms Solved Questions
+# Learn Next.js
+Learn Next.js
